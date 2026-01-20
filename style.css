@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+table {
+    margin-top: 20px;
+}
+
+td {
+    padding: 10px;
+    vertical-align: top;
+}
+
+img {
+    border-radius: 10px;
+}
